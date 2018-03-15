@@ -1,0 +1,35 @@
+.boxes {
+  height: 18vh;
+}
+.top {
+  padding: 5px 0px 5px 10px;
+  background-color: rgb(205, 203, 203);
+}
+.square {
+  margin: 15px;
+  background-color: rgb(44, 105, 169);
+  height: 11vh;
+  width: 5.5vw;
+}
+.content {
+  background-color: #fff;
+  height: auto 18vh;
+}
+p {
+  margin: 0 auto;
+  padding: 20px 0px 20px 0px;
+  width: 80vw;
+}
+.blue {
+  background-color: blue;
+}
+.bluegreen {
+  background-color: rgb(47, 255, 165);
+}
+
+.green {
+  background-color: greenyellow;
+}
+.yellow {
+  background-color: yellow;
+}
